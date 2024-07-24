@@ -1,0 +1,8 @@
+{
+	"parent":"minecraft:block/pointed_dripstone_up_base",
+	"ambientocclusion": false,
+	"textures":{
+		"0":"block/packed_ice",
+		"particle":"block/packed_ice"
+		}
+}

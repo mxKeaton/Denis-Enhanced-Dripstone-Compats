@@ -1,0 +1,7 @@
+{
+	"parent":"minecraft:block/pointed_dripstone_up_middle",
+	"textures":{
+		"0":"block/diorite",
+		"particle":"block/diorite"
+		}
+}

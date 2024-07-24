@@ -1,0 +1,7 @@
+{
+	"parent":"minecraft:block/pointed_dripstone_up_tip",
+	"textures":{
+		"0":"block/netherrack",
+		"particle":"block/netherrack"
+		}
+}

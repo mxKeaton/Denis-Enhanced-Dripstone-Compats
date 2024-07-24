@@ -1,0 +1,7 @@
+{
+	"parent":"minecraft:block/pointed_dripstone_down_base",
+	"textures":{
+		"0":"block/basalt_side",
+		"particle":"block/basalt_side"
+		}
+}

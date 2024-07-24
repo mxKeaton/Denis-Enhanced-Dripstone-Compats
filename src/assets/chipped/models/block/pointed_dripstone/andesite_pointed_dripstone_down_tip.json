@@ -1,0 +1,7 @@
+{
+	"parent":"minecraft:block/pointed_dripstone_down_tip",
+	"textures":{
+		"0":"block/andesite",
+		"particle":"block/andesite"
+		}
+}
